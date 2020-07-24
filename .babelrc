@@ -1,0 +1,4 @@
+{
+    "presets": ["@babel/preset-env", "minify"]//el minify sirve para que al emitir el build de production nos de el codigo minimizado.
+    //luego el babel/preset-env lo que hace es pasar de mi JS al de ecmascript 5 que es actualmente el mas generico para TODOS los navegadores.
+}
