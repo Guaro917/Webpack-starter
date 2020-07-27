@@ -14,5 +14,5 @@ npm run build
 ```
 O sino el build(development):
 ```
-npm ruin build:dev
+npm run build:dev
 ```
